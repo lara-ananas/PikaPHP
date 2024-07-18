@@ -9,7 +9,7 @@ Just as a pika is small but resilient and resourceful, PikaPHP offers simple, ef
 
 ## Requirements
 
-- PHP 8.1+ with nstalled extensions: fileinfo, gd, mbstring, pdo_mysql, ext-zlib
+- PHP 8.1+ with installed extensions: fileinfo, gd, mbstring, pdo_*, ext-zlib
 
 ## Get Started
 
