@@ -5,7 +5,18 @@
     "php",
     "storage",
     "file",
-    "filesystem"
+    "filesystem",
+    "db",
+    "database",
+    "lightweight",
+    "library",
+    "sql",
+    "mysql",
+    "mssql",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "oracle"
   ],
   "config": {
     "platform": {
