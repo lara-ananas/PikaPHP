@@ -32,7 +32,6 @@
     "ext-fileinfo": "*",
     "ext-gd": "*",
     "ext-mbstring": "*",
-    "ext-pdo": "*",
     "ext-zlib": "*",
     "catfan/medoo": ">=2.1"
   },
