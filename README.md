@@ -1,5 +1,5 @@
 # 🐭PikaPHP🐘
-⚡️The Small, Swift, and Powerful Toolkit⚡️
+🐭⚡️The Small, Swift, and Powerful Toolkit⚡️🐘
 
 ## 🐭PikaPHP🐘 - What's in a Name?
 
