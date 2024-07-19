@@ -17,7 +17,7 @@ Just as a pika is small but resilient and resourceful, PikaPHP offers simple, ef
 
 Add PikaPHP to the `composer.json` configuration file.
 ```bash
-$ composer require lara-ananas/pikaphp
+$ composer require larananas/pikaphp
 ```
 
 And update the composer
