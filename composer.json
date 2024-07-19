@@ -1,5 +1,5 @@
 {
-  "name": "lara-ananas/pikaphp",
+  "name": "larananas/pikaphp",
   "description": "PikaPHP: The Small, Swift, and Powerful Toolkit",
   "keywords": [
     "php",
@@ -27,14 +27,14 @@
       "dealerdirect/phpcodesniffer-composer-installer": true
     }
   },
-  "homepage": "https://github.com/lara-ananas/PikaPHP",
+  "homepage": "https://github.com/larananas/PikaPHP",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "lara-ananas",
       "email": "lara@mailo.com",
-      "homepage": "https://github.com/lara-ananas",
+      "homepage": "https://github.com/larananas",
       "role": "Lead Developer"
     }
   ],
