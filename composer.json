@@ -53,5 +53,11 @@
       "PikaPHP\\": "src/PikaPHP"
     }
   },
-  "autoload-dev": {}
+  "autoload-dev": {},
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://ko-fi.com/larananas_"
+    }
+  ]
 }
