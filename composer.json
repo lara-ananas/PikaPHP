@@ -1,6 +1,6 @@
 {
   "name": "larananas/pikaphp",
-  "description": "PikaPHP: The Small, Swift, and Powerful Toolkit",
+  "description": "PikaPHP: The Small, Swift, and Powerful REST API framework",
   "keywords": [
     "php",
     "storage",
@@ -16,7 +16,15 @@
     "sqlite",
     "postgresql",
     "mariadb",
-    "oracle"
+    "oracle",
+    "api",
+    "rest",
+    "rest-api",
+    "restful",
+    "upload",
+    "framework",
+    "api-rest",
+    "restful-api"
   ],
   "config": {
     "platform": {
@@ -44,9 +52,9 @@
     "ext-gd": "*",
     "ext-mbstring": "*",
     "ext-zlib": "*",
-    "catfan/medoo": ">=2.1"
+    "catfan/medoo": "^2.1",
+    "firebase/php-jwt": "^6.10"
   },
-  "require-dev": {},
   "suggest": {},
   "autoload": {
     "psr-4": {
