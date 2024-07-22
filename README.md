@@ -1,11 +1,11 @@
 # 🐭PikaPHP🐘
-🐭⚡️The Small, Swift, and Powerful Toolkit⚡️🐘
+🐭⚡️The Small, Swift, and Powerful API framework⚡️🐘
 
 ## 🐭PikaPHP🐘 - What's in a Name?
 
 Why is the project called 🐭PikaPHP🐘? The name is inspired by the adorable pika, a small mammal that resembles a tiny mouse, and the mighty elephant associated with PHP.
 
-Just as a pika is small but resilient and resourceful, PikaPHP offers simple, efficient tools to help developers tackle the large-scale tasks of PHP development. My goal is to provide lightweight solutions that make your PHP projects feel easier, smaller, and more manageable!
+Just as a pika is small but resilient and resourceful, PikaPHP offers simple, efficient tools to help developers tackle the large-scale tasks of PHP REST API development. The goal is to provide a lightweight API framework that makes your PHP projects feel easier, faster, and more manageable!
 
 ## Requirements
 
