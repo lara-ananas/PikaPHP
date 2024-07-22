@@ -1,5 +1,5 @@
 # 🐭PikaPHP🐘
-🐭⚡️The Small, Swift, and Powerful API framework⚡️🐘
+🐭⚡️The Small, Swift, and Powerful REST API framework⚡️🐘
 
 ## 🐭PikaPHP🐘 - What's in a Name?
 
